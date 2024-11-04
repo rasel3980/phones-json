@@ -1,124 +1,154 @@
 {
   "phones": [
     {
-      "id": 1,
-      "brand": "Apple",
-      "model": "iPhone 14",
+      "product_id": 1,
+      "product_title": "Apple iPhone 14",
+      "product_image": "https://i.ibb.co/kxQF452/iphon-14.jpg",
+      "category": "Smartphones",
       "price": 799,
-      "specs": {
+      "description": "Apple's flagship smartphone with cutting-edge performance and camera technology.",
+      "Specification": {
         "screenSize": "6.1 inches",
         "storage": "128GB",
         "camera": "12MP dual"
       },
-      "img": "https://i.ibb.co.com/kxQF452/iphon-14.jpg"
+      "availability": true,
+      "rating": 4.8
     },
     {
-      "id": 2,
-      "brand": "Samsung",
-      "model": "Galaxy S23",
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S23",
+      "product_image": "https://i.ibb.co/5RMmmyx/Galaxy-S23-Lavender-4600.jpg",
+      "category": "Smartphones",
       "price": 999,
-      "specs": {
+      "description": "Premium smartphone from Samsung featuring an advanced triple-camera setup.",
+      "Specification": {
         "screenSize": "6.8 inches",
         "storage": "256GB",
         "camera": "50MP triple"
       },
-      "img": "https://i.ibb.co.com/5RMmmyx/Galaxy-S23-Lavender-4600.jpg"
+      "availability": true,
+      "rating": 4.7
     },
     {
-      "id": 3,
-      "brand": "Google",
-      "model": "Pixel 7",
+      "product_id": 3,
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co/ZhPHyjt/Google-Pixel-7-Used-Price-in-Bangladesh.jpg",
+      "category": "Smartphones",
       "price": 599,
-      "specs": {
+      "description": "Google's latest smartphone with an impressive camera and pure Android experience.",
+      "Specification": {
         "screenSize": "6.3 inches",
         "storage": "128GB",
         "camera": "50MP dual"
       },
-      "img": "https://i.ibb.co.com/ZhPHyjt/Google-Pixel-7-Used-Price-in-Bangladesh.jpg"
+      "availability": true,
+      "rating": 4.6
     },
     {
-      "id": 4,
-      "brand": "OnePlus",
-      "model": "9 Pro",
+      "product_id": 4,
+      "product_title": "OnePlus 9 Pro",
+      "product_image": "https://i.ibb.co/n1g5wv5/OnePlus.png",
+      "category": "Smartphones",
       "price": 729,
-      "specs": {
+      "description": "High-performance smartphone with Hasselblad camera system for stunning photos.",
+      "Specification": {
         "screenSize": "6.7 inches",
         "storage": "128GB",
         "camera": "48MP quad"
       },
-      "img": "https://i.ibb.co.com/n1g5wv5/OnePlus.png"
+      "availability": true,
+      "rating": 4.5
     },
     {
-      "id": 5,
-      "brand": "Xiaomi",
-      "model": "Mi 11",
+      "product_id": 5,
+      "product_title": "Xiaomi Mi 11",
+      "product_image": "https://i.ibb.co/vHZhkzX/Xiaomi-Mi-11-Black-500x500-1-500x500.jpg",
+      "category": "Smartphones",
       "price": 699,
-      "specs": {
+      "description": "Affordable flagship with a high-resolution 108MP camera and excellent performance.",
+      "Specification": {
         "screenSize": "6.8 inches",
         "storage": "256GB",
         "camera": "108MP triple"
       },
-      "img": "https://i.ibb.co.com/vHZhkzX/Xiaomi-Mi-11-Black-500x500-1-500x500.jpg"
+      "availability": true,
+      "rating": 4.4
     },
     {
-      "id": 6,
-      "brand": "Sony",
-      "model": "Xperia 1 IV",
+      "product_id": 6,
+      "product_title": "Sony Xperia 1 IV",
+      "product_image": "https://i.ibb.co/kMKWPzp/sony.jpg",
+      "category": "Smartphones",
       "price": 1200,
-      "specs": {
+      "description": "High-end Sony phone with exceptional camera technology and 4K display.",
+      "Specification": {
         "screenSize": "6.5 inches",
         "storage": "512GB",
         "camera": "12MP triple"
       },
-      "img": "https://i.ibb.co.com/kMKWPzp/sony.jpg"
+      "availability": false,
+      "rating": 4.3
     },
     {
-      "id": 7,
-      "brand": "Huawei",
-      "model": "P50 Pro",
+      "product_id": 7,
+      "product_title": "Huawei P50 Pro",
+      "product_image": "https://i.ibb.co/xjBFnLT/huawei-p50-pro.jpg",
+      "category": "Smartphones",
       "price": 799,
-      "specs": {
+      "description": "Flagship device from Huawei with powerful quad-camera setup.",
+      "Specification": {
         "screenSize": "6.6 inches",
         "storage": "256GB",
         "camera": "50MP quad"
       },
-      "img": "https://i.ibb.co.com/xjBFnLT/huawei-p50-pro.jpg"
+      "availability": true,
+      "rating": 4.4
     },
     {
-      "id": 8,
-      "brand": "Motorola",
-      "model": "Edge Plus",
+      "product_id": 8,
+      "product_title": "Motorola Edge Plus",
+      "product_image": "https://i.ibb.co/hKPK1B4/motorola-edge-plus-body-1587551574402.webp",
+      "category": "Smartphones",
       "price": 999,
-      "specs": {
+      "description": "Premium Motorola smartphone with powerful specs and stunning design.",
+      "Specification": {
         "screenSize": "6.7 inches",
         "storage": "256GB",
         "camera": "108MP triple"
       },
-      "img": "https://i.ibb.co.com/hKPK1B4/motorola-edge-plus-body-1587551574402.webp"
+      "availability": true,
+      "rating": 4.5
     },
     {
-      "id": 9,
-      "brand": "Oppo",
-      "model": "Find X5",
+      "product_id": 9,
+      "product_title": "Oppo Find X5",
+      "product_image": "https://i.ibb.co/p2FvkP8/Find-X5.jpg",
+      "category": "Smartphones",
       "price": 849,
-      "specs": {
+      "description": "Stylish smartphone from Oppo with powerful camera and storage options.",
+      "Specification": {
         "screenSize": "6.55 inches",
         "storage": "128GB",
         "camera": "50MP triple"
       },
-      "img": "https://i.ibb.co.com/p2FvkP8/Find-X5.jpg"
+      "availability": true,
+      "rating": 4.3
     },
     {
-      "id": 10,
-      "brand": "Vivo",
-      "model": "X80 Pro",
+      "product_id": 10,
+      "product_title": "Vivo X80 Pro",
+      "product_image": "https://i.ibb.co/TYXy8SL/Vivo-X80-Pro.webp",
+      "category": "Smartphones",
       "price": 899,
-      "specs": {
+      "description": "Vivo flagship with advanced camera and high-resolution screen.",
+      "Specification": {
         "screenSize": "6.78 inches",
         "storage": "256GB",
         "camera": "50MP quad"
       },
-      "img": "https://i.ibb.co.com/TYXy8SL/Vivo-X80-Pro.webp"
+      "availability": true,
+      "rating": 4.6
     }
   ]
 }
