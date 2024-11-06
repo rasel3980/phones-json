@@ -4,7 +4,7 @@
       "product_id": 1,
       "product_title": "Apple iPhone 14",
       "product_image": "https://i.ibb.co/kxQF452/iphon-14.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 799,
       "description": "Apple's flagship smartphone with cutting-edge performance and camera technology.",
       "Specification": {
@@ -19,7 +19,7 @@
       "product_id": 2,
       "product_title": "Samsung Galaxy S23",
       "product_image": "https://i.ibb.co/5RMmmyx/Galaxy-S23-Lavender-4600.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 999,
       "description": "Premium smartphone from Samsung featuring an advanced triple-camera setup.",
       "Specification": {
@@ -34,7 +34,7 @@
       "product_id": 3,
       "product_title": "Google Pixel 7",
       "product_image": "https://i.ibb.co/ZhPHyjt/Google-Pixel-7-Used-Price-in-Bangladesh.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 599,
       "description": "Google's latest smartphone with an impressive camera and pure Android experience.",
       "Specification": {
@@ -49,7 +49,7 @@
       "product_id": 4,
       "product_title": "OnePlus 9 Pro",
       "product_image": "https://i.ibb.co/n1g5wv5/OnePlus.png",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 729,
       "description": "High-performance smartphone with Hasselblad camera system for stunning photos.",
       "Specification": {
@@ -64,7 +64,7 @@
       "product_id": 5,
       "product_title": "Xiaomi Mi 11",
       "product_image": "https://i.ibb.co/vHZhkzX/Xiaomi-Mi-11-Black-500x500-1-500x500.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 699,
       "description": "Affordable flagship with a high-resolution 108MP camera and excellent performance.",
       "Specification": {
@@ -79,7 +79,7 @@
       "product_id": 6,
       "product_title": "Sony Xperia 1 IV",
       "product_image": "https://i.ibb.co/kMKWPzp/sony.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 1200,
       "description": "High-end Sony phone with exceptional camera technology and 4K display.",
       "Specification": {
@@ -94,7 +94,7 @@
       "product_id": 7,
       "product_title": "Huawei P50 Pro",
       "product_image": "https://i.ibb.co/xjBFnLT/huawei-p50-pro.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 799,
       "description": "Flagship device from Huawei with powerful quad-camera setup.",
       "Specification": {
@@ -109,7 +109,7 @@
       "product_id": 8,
       "product_title": "Motorola Edge Plus",
       "product_image": "https://i.ibb.co/hKPK1B4/motorola-edge-plus-body-1587551574402.webp",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 999,
       "description": "Premium Motorola smartphone with powerful specs and stunning design.",
       "Specification": {
@@ -124,7 +124,7 @@
       "product_id": 9,
       "product_title": "Oppo Find X5",
       "product_image": "https://i.ibb.co/p2FvkP8/Find-X5.jpg",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 849,
       "description": "Stylish smartphone from Oppo with powerful camera and storage options.",
       "Specification": {
@@ -139,7 +139,7 @@
       "product_id": 10,
       "product_title": "Vivo X80 Pro",
       "product_image": "https://i.ibb.co/TYXy8SL/Vivo-X80-Pro.webp",
-      "category": "Smartphones",
+      "category": "Phones",
       "price": 899,
       "description": "Vivo flagship with advanced camera and high-resolution screen.",
       "Specification": {
